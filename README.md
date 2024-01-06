@@ -1,5 +1,5 @@
 # vault-vauilt-ui
-For an easy way to decrypt your vault files. Don't need to worry much about the format of vault string. Just paste it and decrypt it.
+For an easy way to decrypt and encrypt your vault files. Don't need to worry much about the format of vault string. Just paste it and decrypt it.
 
 
 ## Installation
